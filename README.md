@@ -1,6 +1,6 @@
 # Rxcehack 
 # "install"
-# git clone https://github.com/rajja8/UpdateV7.0 
+# git clone https://github.com/rajja8/Rxcehack 
 # "run"
-# chmod +x UpdateV7.0 
-# ./UpdateV7.0 
+# chmod +x Rxcehack
+# ./Rxcehack
